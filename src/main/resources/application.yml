@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: java-claude-api-demo
+
+server:
+  port: 8090
